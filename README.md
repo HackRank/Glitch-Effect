@@ -1,1 +1,1 @@
-Let us not forget our roots, Bitcion v0.1.0
+Let us not forget our roots, Bitcion v0.1.0.
