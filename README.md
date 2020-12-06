@@ -2,4 +2,4 @@ Let us not forget our roots, Bitcion v0.1.0. Pure code as close to Satoshi as yo
 We have this pinned to our organization to remind everyone where we came from, so that we
 can better see where we are going.
 
-Ann
+Annou
