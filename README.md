@@ -4,4 +4,4 @@ can better see where we are going.
 
 Announcement
 -----
-Announcing the first rel
+Announcing the first rele
