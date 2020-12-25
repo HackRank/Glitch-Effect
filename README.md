@@ -4,4 +4,4 @@ can better see where we are going.
 
 Announcement
 -----
-Announcing the first release of Bitco
+Announcing the first release of Bitcoin,
