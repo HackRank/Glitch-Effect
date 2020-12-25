@@ -4,4 +4,4 @@ can better see where we are going.
 
 Announcement
 -----
-Announcing the first release of Bitcoin, a ne
+Announcing the first release of Bitcoin, a new ele
