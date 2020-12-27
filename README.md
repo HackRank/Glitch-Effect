@@ -5,3 +5,4 @@ can better see where we are going.
 Announcement
 -----
 Announcing the first release of Bitcoin, a new electronic cash
+sy
