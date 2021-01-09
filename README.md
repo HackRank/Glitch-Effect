@@ -5,4 +5,4 @@ can better see where we are going.
 Announcement
 -----
 Announcing the first release of Bitcoin, a new electronic cash
-system that uses a peer-to-peer network to preven
+system that uses a peer-to-peer network to prevent
