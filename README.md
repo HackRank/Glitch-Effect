@@ -8,4 +8,4 @@ Announcing the first release of Bitcoin, a new electronic cash
 system that uses a peer-to-peer network to prevent double-spending.
 It's completely decentralized with no server or central authority.
 
-Se
+See
