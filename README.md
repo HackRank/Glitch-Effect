@@ -10,4 +10,4 @@ It's completely decentralized with no server or central authority.
 
 See bitcoin.org for screenshots.
 
-Download lin
+Download link:
