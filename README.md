@@ -11,4 +11,4 @@ It's completely decentralized with no server or central authority.
 See bitcoin.org for screenshots.
 
 Download link:
-http://downloads.sourceforge.net/bitco
+http://downloads.sourceforge.net/bitcoi
