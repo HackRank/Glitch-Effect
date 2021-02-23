@@ -11,4 +11,6 @@ It's completely decentralized with no server or central authority.
 See bitcoin.org for screenshots.
 
 Download link:
-http://downloads.sourceforge.net/bitcoin/bitcoin-0.1.0.ra
+http://downloads.sourceforge.net/bitcoin/bitcoin-0.1.0.rar
+
+W
