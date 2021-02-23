@@ -13,4 +13,4 @@ See bitcoin.org for screenshots.
 Download link:
 http://downloads.sourceforge.net/bitcoin/bitcoin-0.1.0.rar
 
-Windo
+Windows 
