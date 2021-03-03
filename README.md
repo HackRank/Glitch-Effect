@@ -15,4 +15,4 @@ http://downloads.sourceforge.net/bitcoin/bitcoin-0.1.0.rar
 
 Windows only for now. Open source C++ code is included.
 
-- 
+- U
