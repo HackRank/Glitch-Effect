@@ -17,4 +17,4 @@ Windows only for now. Open source C++ code is included.
 
 - Unpack the files into a directory
 - Run BITCOIN.EXE
-- It automatically connects to ot
+- It automatically connects to other
