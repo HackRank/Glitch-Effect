@@ -19,4 +19,4 @@ Windows only for now. Open source C++ code is included.
 - Run BITCOIN.EXE
 - It automatically connects to other nodes
 
-If you can keep a node running that accepts incoming conn
+If you can keep a node running that accepts incoming connecti
