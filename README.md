@@ -20,4 +20,4 @@ Windows only for now. Open source C++ code is included.
 - It automatically connects to other nodes
 
 If you can keep a node running that accepts incoming connections,
-you'll really be helping th
+you'll really be helping the n
