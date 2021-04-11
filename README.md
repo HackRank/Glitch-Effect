@@ -21,4 +21,4 @@ Windows only for now. Open source C++ code is included.
 
 If you can keep a node running that accepts incoming connections,
 you'll really be helping the network a lot. Port 8333 on your
-firewall needs to be open to receive incoming conn
+firewall needs to be open to receive incoming conne
