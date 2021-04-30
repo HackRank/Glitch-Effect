@@ -24,4 +24,4 @@ you'll really be helping the network a lot. Port 8333 on your
 firewall needs to be open to receive incoming connections.
 
 The software is still alpha and experimental. There's no guarantee
-the system's state won't have to be restarted a
+the system's state won't have to be restarted at so
