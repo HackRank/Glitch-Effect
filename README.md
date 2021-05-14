@@ -25,4 +25,5 @@ firewall needs to be open to receive incoming connections.
 
 The software is still alpha and experimental. There's no guarantee
 the system's state won't have to be restarted at some point if it
-becomes necessary, although I've done everything I can to build i
+becomes necessary, although I've done everything I can to build in
+ex
