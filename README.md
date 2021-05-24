@@ -28,4 +28,4 @@ the system's state won't have to be restarted at some point if it
 becomes necessary, although I've done everything I can to build in
 extensibility and versioning.
 
-You can get coins by getting someone to 
+You can get coins by getting someone to send
