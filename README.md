@@ -29,4 +29,4 @@ becomes necessary, although I've done everything I can to build in
 extensibility and versioning.
 
 You can get coins by getting someone to send you some, or turn on
-Options->Generate Coins to run a node and gene
+Options->Generate Coins to run a node and generate
