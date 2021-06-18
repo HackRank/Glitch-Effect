@@ -31,4 +31,4 @@ extensibility and versioning.
 You can get coins by getting someone to send you some, or turn on
 Options->Generate Coins to run a node and generate blocks. I made
 the proof-of-work difficulty ridiculously easy to start with, so
-for a little while in t
+for a little while in the b
