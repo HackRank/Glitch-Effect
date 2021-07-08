@@ -33,4 +33,4 @@ Options->Generate Coins to run a node and generate blocks. I made
 the proof-of-work difficulty ridiculously easy to start with, so
 for a little while in the beginning a typical PC will be able to
 generate coins in just a few hours. It'll get a lot harder when
-competition makes the automati
+competition makes the automatic a
