@@ -35,4 +35,5 @@ for a little while in the beginning a typical PC will be able to
 generate coins in just a few hours. It'll get a lot harder when
 competition makes the automatic adjustment drive up the difficulty.
 Generated coins must wait 120 blocks to mature before they can be
-spent
+spent.
+
