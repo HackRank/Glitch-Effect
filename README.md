@@ -37,4 +37,4 @@ competition makes the automatic adjustment drive up the difficulty.
 Generated coins must wait 120 blocks to mature before they can be
 spent.
 
-There are two ways to send mon
+There are two ways to send money.
