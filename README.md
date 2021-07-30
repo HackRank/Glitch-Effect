@@ -38,4 +38,4 @@ Generated coins must wait 120 blocks to mature before they can be
 spent.
 
 There are two ways to send money. If the recipient is online, you
-can
+can en
