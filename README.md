@@ -40,4 +40,4 @@ spent.
 There are two ways to send money. If the recipient is online, you
 can enter their IP address and it will connect, get a new public
 key and send the transaction with comments. If the recipient is
-not online, it is 
+not online, it is possib
