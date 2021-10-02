@@ -42,4 +42,5 @@ can enter their IP address and it will connect, get a new public
 key and send the transaction with comments. If the recipient is
 not online, it is possible to send to their Bitcoin address, which
 is a hash of their public key that they give you. They'll receive
-the transaction the next time they connect and get the block it'
+the transaction the next time they connect and get the block it's
+i
