@@ -45,4 +45,4 @@ is a hash of their public key that they give you. They'll receive
 the transaction the next time they connect and get the block it's
 in. This method has the disadvantage that no comment information
 is sent, and a bit of privacy may be lost if the address is used
-multiple times, but it is a useful alternative if both u
+multiple times, but it is a useful alternative if both users can
