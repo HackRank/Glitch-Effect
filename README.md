@@ -48,3 +48,5 @@ is sent, and a bit of privacy may be lost if the address is used
 multiple times, but it is a useful alternative if both users can't
 be online at the same time or the recipient can't receive incoming
 connections.
+
+T
