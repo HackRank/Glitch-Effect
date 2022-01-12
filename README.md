@@ -50,4 +50,4 @@ be online at the same time or the recipient can't receive incoming
 connections.
 
 Total circulation will be 21,000,000 coins. It'll be distributed
-to ne
+to netwo
