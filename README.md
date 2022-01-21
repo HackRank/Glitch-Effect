@@ -51,4 +51,4 @@ connections.
 
 Total circulation will be 21,000,000 coins. It'll be distributed
 to network nodes when they make blocks, with the amount cut in half
-ev
+every 
