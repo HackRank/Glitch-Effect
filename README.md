@@ -54,4 +54,4 @@ to network nodes when they make blocks, with the amount cut in half
 every 4 years.
 
 first 4 years: 10,500,000 coins
-next 4 yea
+next 4 years:
