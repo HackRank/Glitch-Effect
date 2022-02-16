@@ -55,4 +55,4 @@ every 4 years.
 
 first 4 years: 10,500,000 coins
 next 4 years: 5,250,000 coins
-next 4 years: 2,625,0
+next 4 years: 2,625,00
