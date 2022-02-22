@@ -58,3 +58,5 @@ next 4 years: 5,250,000 coins
 next 4 years: 2,625,000 coins
 next 4 years: 1,312,500 coins
 etc...
+
+When
