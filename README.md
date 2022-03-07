@@ -60,4 +60,4 @@ next 4 years: 1,312,500 coins
 etc...
 
 When that runs out, the system can support transaction fees if
-needed. It's based on open market compe
+needed. It's based on open market competi
