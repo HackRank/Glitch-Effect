@@ -68,4 +68,4 @@ Satoshi Nakamoto
 
 Intro
 -----
-Bitcoin is
+Bitcoin is an 
