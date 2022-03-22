@@ -68,4 +68,4 @@ Satoshi Nakamoto
 
 Intro
 -----
-Bitcoin is an ele
+Bitcoin is an electro
