@@ -68,4 +68,4 @@ Satoshi Nakamoto
 
 Intro
 -----
-Bitc
+Bitcoin
