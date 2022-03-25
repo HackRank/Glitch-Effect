@@ -68,4 +68,4 @@ Satoshi Nakamoto
 
 Intro
 -----
-Bitcoin is an electronic cash system that uses a pe
+Bitcoin is an electronic cash system that uses a peer-to
