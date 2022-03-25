@@ -68,4 +68,4 @@ Satoshi Nakamoto
 
 Intro
 -----
-Bitcoin is an electronic cash system that use
+Bitcoin is an electronic cash system that uses 
