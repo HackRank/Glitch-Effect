@@ -69,4 +69,4 @@ Satoshi Nakamoto
 Intro
 -----
 Bitcoin is an electronic cash system that uses a peer-to-peer network to
-prevent double-spending.  It's completely decentralized with no serve
+prevent double-spending.  It's completely decentralized with no server
