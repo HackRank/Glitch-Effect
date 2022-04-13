@@ -73,3 +73,4 @@ prevent double-spending.  It's completely decentralized with no server or
 central authority.
 
 
+Ope
