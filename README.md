@@ -75,4 +75,4 @@ central authority.
 
 Operating Systems
 -----------------
-Windows NT/2
+Windows NT/200
