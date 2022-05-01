@@ -77,4 +77,4 @@ Operating Systems
 -----------------
 Windows NT/2000/XP (and probably Vista)
 
-Vista hasn't been tested yet.  All the lib
+Vista hasn't been tested yet.  All the librar
