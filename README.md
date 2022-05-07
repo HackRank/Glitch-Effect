@@ -78,4 +78,4 @@ Operating Systems
 Windows NT/2000/XP (and probably Vista)
 
 Vista hasn't been tested yet.  All the libraries used are cross-platform, so
-there's nothing preventing future Linux a
+there's nothing preventing future Linux and
