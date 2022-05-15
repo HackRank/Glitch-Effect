@@ -83,4 +83,4 @@ there's nothing preventing future Linux and Mac builds.
 
 Setup
 -----
-Unpack the fil
+Unpack the files
