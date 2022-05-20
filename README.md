@@ -84,3 +84,5 @@ there's nothing preventing future Linux and Mac builds.
 Setup
 -----
 Unpack the files into a directory and run bitcoin.exe.
+
+The s
