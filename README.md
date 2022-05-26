@@ -85,4 +85,4 @@ Setup
 -----
 Unpack the files into a directory and run bitcoin.exe.
 
-The software automatically finds othe
+The software automatically finds other nod
