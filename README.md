@@ -85,4 +85,4 @@ Setup
 -----
 Unpack the files into a directory and run bitcoin.exe.
 
-The software automatically finds other nodes to connect to.  Yo
+The software automatically finds other nodes to connect to.  You sho
