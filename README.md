@@ -86,4 +86,4 @@ Setup
 Unpack the files into a directory and run bitcoin.exe.
 
 The software automatically finds other nodes to connect to.  You should set
-your firewall to forward port 8333 to your computer so you 
+your firewall to forward port 8333 to your computer so you ca
