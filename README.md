@@ -89,4 +89,4 @@ The software automatically finds other nodes to connect to.  You should set
 your firewall to forward port 8333 to your computer so you can receive incoming
 connections, otherwise the nodes you can connect with will be limited.
 
-To support the network by running a node, sel
+To support the network by running a node, selec
