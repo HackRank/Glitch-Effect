@@ -90,3 +90,4 @@ your firewall to forward port 8333 to your computer so you can receive incoming
 connections, otherwise the nodes you can connect with will be limited.
 
 To support the network by running a node, select:
+
