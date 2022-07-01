@@ -91,4 +91,4 @@ connections, otherwise the nodes you can connect with will be limited.
 
 To support the network by running a node, select:
 
-  Options->Generate
+  Options->Generate C
