@@ -93,4 +93,4 @@ To support the network by running a node, select:
 
   Options->Generate Coins
 
-and keep the program open or minimized.  It run
+and keep the program open or minimized.  It runs a
