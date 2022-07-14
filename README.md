@@ -94,4 +94,4 @@ To support the network by running a node, select:
   Options->Generate Coins
 
 and keep the program open or minimized.  It runs at idle priority when no other
-programs are usin
+programs are using
