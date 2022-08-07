@@ -96,4 +96,4 @@ To support the network by running a node, select:
 and keep the program open or minimized.  It runs at idle priority when no other
 programs are using the CPU.  Your computer will be solving a very difficult
 computational problem that is used to lock in blocks of transactions.  The time
-to generate a block varies each time, but may take days or months
+to generate a block varies each time, but may take days or months, d
