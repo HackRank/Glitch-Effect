@@ -98,4 +98,4 @@ programs are using the CPU.  Your computer will be solving a very difficult
 computational problem that is used to lock in blocks of transactions.  The time
 to generate a block varies each time, but may take days or months, depending
 on the speed of your computer and the competition on the network.  It's not a
-computation that has to start over from the beginn
+computation that has to start over from the beginning if
