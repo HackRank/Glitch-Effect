@@ -100,4 +100,4 @@ to generate a block varies each time, but may take days or months, depending
 on the speed of your computer and the competition on the network.  It's not a
 computation that has to start over from the beginning if you stop and restart
 it.  A solution might be found at any given moment it's running.  As a reward
-f
+for 
